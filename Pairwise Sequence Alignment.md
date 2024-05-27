@@ -5,13 +5,12 @@ It plays an important role in many cellular functions and has been found to be o
 The ATF3 Protein also called the Activating transcription factor 3 protein and is a part of the mammalian activation transcription factor/cAMP responsive element-binding (CREB) protein family of transcription factors.
 
 ## Global Alignment of c-Fos and ATF3
-Using the EMBOSS Needle tool, the sequences of both proteins were Globally aligned.  
-Parameters used include: 
-Matrix: EPAM100
-Gap Open: 10
-Gap Extended: 0.5
-End Gap: False
-End Gap Open: 10
-End Gap Extend: 0.5
-Output Format: pair
+Using the EMBOSS Needle tool, the sequences of both proteins were Globally aligned. Parameters used include:  
+Matrix: EPAM100  
+Gap Open: 10  
+Gap Extended: 0.5  
+End Gap: False  
+End Gap Open: 10  
+End Gap Extend: 0.5  
+Output Format: pair  
 Sequence Type: Protein
