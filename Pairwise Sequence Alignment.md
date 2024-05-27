@@ -1,4 +1,4 @@
-#Pairwise Alignment of c-fos Protein and ATF3 Protein.
+# Pairwise Alignment of c-fos Protein and ATF3 Protein.
 The c-Fos protein is a proto-oncogene homoloous to the retroviral oncogene:v-Fos and It was first discovered in rat fibroblasts.
 The c-fos protein is a cell cycle controller at the G0/G1 checkpoint. 
 It plays an important role in many cellular functions and has been found to be overexpressed in a variety of cancers.
