@@ -14,4 +14,6 @@ End Gap: False
 End Gap Open: 10  
 End Gap Extend: 0.5  
 Output Format: pair  
-Sequence Type: Protein
+Sequence Type: Protein  
+![Snapshot of the result using PAM 100](https://github.com/Onaho-Pascal/Bioinformatics-Projects/assets/156159318/80496bff-e43f-479b-8986-f8067bc07c2f)
+
