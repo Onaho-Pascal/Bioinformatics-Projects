@@ -40,15 +40,17 @@ S
  End Gap Open: 10  
  End Gap Extend: 0.5  
  Output Format: pair  
- Sequence Type: Protein  
+ Sequence Type: Protein
+* Global Alignment using PAM 100:
 ![Snapshot of the result using PAM 100](https://github.com/Onaho-Pascal/Bioinformatics-Projects/assets/156159318/80496bff-e43f-479b-8986-f8067bc07c2f)
-When PAM is set to 200:
+* Global Alignment using PAM 200:
 ![Snapshot of the result using PAM 200](https://github.com/Onaho-Pascal/Bioinformatics-Projects/assets/156159318/9c852c6f-3bcb-4e95-a655-52324f4a192f)
 
 ## Results and Interpretation for the Global Alignment 
 | Sub Matrix | Length | Identity | Similarity | Gaps | Score |
 |------------|--------|----------|------------|------|-------|
-|  PAM 100   |    
+|  PAM 100   |   402  |68/402 (16.9%)| 112/402 (27.9%) | 243/402 (60.4%) | 218.5 |
+|  PAM 200   |   403  |63/403 (15.6%)| 120/403 (29.8%) | 245/403 (60.4%) | 294.5 |
 ## Local Alignment of c-Fos and ATF3 
 Using the EMBOSS Needle tool, the sequences of both proteins were locally aligned. 
 Steps include:
@@ -56,10 +58,14 @@ Steps include:
 * Since the alignment is for Protein sequences, leave the Protein option ticked.
 * Paste or upload the sequences of the protein to be aligned and the sequences should be uploaded in FASTA FORMAT, using the FASTA Format sequences provided above.
 * **DO NOT FORGET THE GREATER THAN SIGN**
-* Local Alignment using PAM 100
+* Local Alignment using PAM 100:
   ![Snapshot of Local Alignment using PAM 100](https://github.com/Onaho-Pascal/Bioinformatics-Projects/assets/156159318/3a3ab95f-4cf6-4f83-9769-71a9a28ffe91)
   
-* Local Alignment using PAM 200
+* Local Alignment using PAM 200:
  ![Snapshot of the Local Alignment result using PAM 100](https://github.com/Onaho-Pascal/Bioinformatics-Projects/assets/156159318/b3e5d117-413a-4cb1-9c3f-1254ca5ae0c6)
 
- 
+## Results and Intepretation for the Local Alignment
+| Sub Matrix | Length | Identity | Similarity | Gaps | Score |
+|------------|--------|----------|------------|------|-------|
+|  PAM 100   |  200   | 59/200 (29.5%) | 94/200 (47.0%) | 69/200 (34.5%) | 224.5 |
+|  PAM 200   |  245   | 63/245 (25.7%) | 120/245 (49.0%) | 88/245 (35.9%) | 298.5 |
