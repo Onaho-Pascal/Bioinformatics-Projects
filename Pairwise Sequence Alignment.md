@@ -88,3 +88,8 @@ Steps include:
 
 Explanation given for the Global alignment is almost entirely applicable to the Local alignment. This includes the difference in results when substitution matrix numbers are changed i.e An increase in substitution matrix number will lead to a decrease ⬇️ in identical percentage and an increase ⬆️ in similarity percentage.  
 Naturally, it is expected that the length of sequence from a local alignment result would be shorter than from a global alignment result of the same sequence. This is because local alignment only aligns a local area of the sequence most similar, while the global aligns the whole sequence.
+
+## Conclusion
+How do we know when to use Global or Local alignment? OR what matrix parameters to use?  
+I've learnt that there is no one way to know and it all depends on the expreience of the bioinformatics scientist performing the sequence alignment and what is needed. Usually, Global alignments are performed on homologous genes and proteins, while local alignments are performed on non-homologous genes or proteins to find the most similar sections or domains of their sequences.  
+In this alignment, both proteins seems have a strong region of similarity and identity at position 137 to 188 for c-FOS protein and position 86 to 137 for ATF3 protein in both the Local and Global sequences. 
