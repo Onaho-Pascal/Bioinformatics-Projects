@@ -45,6 +45,10 @@ S
 When PAM is set to 200:
 ![Snapshot of the result using PAM 200](https://github.com/Onaho-Pascal/Bioinformatics-Projects/assets/156159318/9c852c6f-3bcb-4e95-a655-52324f4a192f)
 
+## Results and Interpretation for the Global Alignment 
+| Sub Matrix | Length | Identity | Similarity | Gaps | Score |
+|------------|--------|----------|------------|------|-------|
+|  PAM 100   |    
 ## Local Alignment of c-Fos and ATF3 
 Using the EMBOSS Needle tool, the sequences of both proteins were locally aligned. 
 Steps include:
