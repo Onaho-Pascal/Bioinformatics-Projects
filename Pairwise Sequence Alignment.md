@@ -54,7 +54,19 @@ S
 | Sub Matrix | Length | Identity | Similarity | Gaps | Score |
 |------------|--------|----------|------------|------|-------|
 |  PAM 100   |   402  |68/402 (16.9%)| 112/402 (27.9%) | 243/402 (60.4%) | 218.5 |
-|  PAM 200   |   403  |63/403 (15.6%)| 120/403 (29.8%) | 245/403 (60.4%) | 294.5 |
+|  PAM 200   |   403  |63/403 (15.6%)| 120/403 (29.8%) | 245/403 (60.4%) | 294.5 |  
+
+As can be viewed from the images, the FOS protein appears at the upper line, while the ATF protein appears at the lower line. The alignment is too long to be presented in a single line, hence, it breakage into segments. The numbers that appear at the right side in the last segment represents the location of the last amino acids at each sequence and therefore, represents the sequence length. There are certain things to take note of:
+* A gap in the alignment is represented by a hyphen.
+* Identity is represented with a solid line.
+* High similarity is represented with two dots.
+* Low or no similarity is represented with one dot.
+* A good alignment is expected to include a large area with lot of lines and lot of two dots. i.e. An area with high identity and similarity.
+* The length as shown in the upper part of the image or the table presented above, is higher than the normal sequence length of the protein, and this is because gaps were also included in the count.
+* Percentage of identity is the number of identical amino acids divided by the alignment length.
+* Percentage of similarity is the number of similar amino acids divided by the alignment length.
+* Percentage of similarity is the number of gaps divided by the alignment length.  
+When the substitution matrix is changed, the results change depending on size of the matrix. A higher matrix number the greater the evolutionary distance and therefore, a higher similarity than when a lower matrix number. Also, more gaps are introduced when a higher matrix is used.
 ## Local Alignment of c-Fos and ATF3 
 Using the EMBOSS Needle tool, the sequences of both proteins were locally aligned. 
 Steps include:
@@ -72,4 +84,7 @@ Steps include:
 | Sub Matrix | Length | Identity | Similarity | Gaps | Score |
 |------------|--------|----------|------------|------|-------|
 |  PAM 100   |  200   | 59/200 (29.5%) | 94/200 (47.0%) | 69/200 (34.5%) | 224.5 |
-|  PAM 200   |  245   | 63/245 (25.7%) | 120/245 (49.0%) | 88/245 (35.9%) | 298.5 |
+|  PAM 200   |  245   | 63/245 (25.7%) | 120/245 (49.0%) | 88/245 (35.9%) | 298.5 |  
+
+Explanation given for the Global alignment is almost entirely applicable to the Local alignment. This includes the difference in results when substitution matrix numbers are changed i.e An increase in substitution matrix number will lead to a decrease ⬇️ in identical percentage and an increase ⬆️ in similarity percentage.  
+Naturally, it is expected that the length of sequence from a local alignment result would be shorter than from a global alignment result of the same sequence. This is because local alignment only aligns a local area of the sequence most similar, while the global aligns the whole sequence.
