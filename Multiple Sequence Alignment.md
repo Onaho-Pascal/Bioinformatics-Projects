@@ -1,4 +1,8 @@
 # Multiple Sequence Alignment of c-Fos protein from different organisms: Human 🕺, Chicken 🐔, Hamster 🐹, Mouse 🐭, Pig 🐖, Carp, Pufferfish 🐡.
+## Introduction
+c-Fos is a protein that functions as a transcription factor, encoded by the FOS gene in humans. It is part of the Fos family of proteins and forms a heterodimer with Jun proteins to create the activator protein-1 (AP-1) complex. This complex binds to specific DNA sequences to regulate the expression of genes involved in cell proliferation, differentiation, and survival.  
+  
+As an immediate-early gene, c-Fos is rapidly induced in response to various stimuli, playing a crucial role in signal transduction pathways, cell cycle regulation, and neuronal activity. Its abnormal expression is associated with oncogenesis, making it significant in cancer research and other cellular processes.
 ## Steps
 * Log into the EMBL-EBI [website](http://www.ebi.ac.uk/Tools/msa/clustalo/) and search for **Clustal Omega** at the "service" icon.
   - **N.B**: The User interface may change when you use it, but you should still be able to relatively navigate the website easily.
