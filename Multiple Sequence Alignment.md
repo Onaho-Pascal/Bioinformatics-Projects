@@ -122,3 +122,12 @@ Multiple sequence has its different uses. Aligning multiple sequences can help t
 Additionally, assuming we knew the c-Fos protein structure of a pig, it won't be difficult to infere the structure of a human, since the share conservative motif or region is high between both species.
 
 ## Conclusion
+By revealing conserved and variable regions across multiple sequences, MSA is quite important for understanding the functional, structural, and evolutionary aspects of biological molecules.  
+
+**Potential applications of this result involves**
+* Phylogenetic Analysis: evolutionary relationships and phylogenetic trees could be conducted from this result
+* Structural Prediction: Like I mentioned in the last part of the discussion, if one of the species' c-Fos protein is not known, this result can effectively aid the prediction of the unknown protein structure, especially for species with highyl conserved region or motif.
+* Target Selection: This result can help in selecting target regions for further experimental studies, such as mutagenesis or functional assays.
+
+
+
