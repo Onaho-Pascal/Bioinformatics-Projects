@@ -7,7 +7,7 @@ This houses all my Bioinformatics practice projects using tools and biological d
 * Unsupervised Machine Learning and Clustering Problem
 * Using K-means in Weka
 
-# Pairwise Sequence Alignment
+## Pairwise Sequence Alignment
 Pairwise Sequence Alignment is a type of sequence alignment used to identify similar regions that may indicate relationships between two biological sequences. This relationship could be functional, structural, evolutionary, or a combination of two or more of these relationships. The biological sequences could also be nucleic acid or protein. As opposed to Pairwise Sequence Alignment, Multiple Sequence Alignment is the alignment of more than 2 biological sequences of similar length. 
 Alignment can either be Global or Local. Global alignment matches the entire length of the sequences, while Local alignment looks for sub-sequences of both sequences and matches them optimally to each other.  
 **There are different tools that can be used for the Global alignment of paired sequences:** 
@@ -22,5 +22,5 @@ Alignment can either be Global or Local. Global alignment matches the entire len
 * The EMBOSS Matcher which identifies local similarities between two sequences using a rigorous algorithm based on the LALIGN application.
 * The LALIGN which finds internal duplications by calculating non-intersecting local alignments of protein or DNA sequences
 * The SSEARCH2SEQ finds an optimal local alignment using the Smith-Waterman algorithm.
-# Multiple Sequence Alignment
+## Multiple Sequence Alignment
 As mentioned earlier, Multiple Sequence Alignment is the alignment of more than 2 biological sequences.
