@@ -129,5 +129,6 @@ By revealing conserved and variable regions across multiple sequences, MSA is qu
 * Structural Prediction: Like I mentioned in the last part of the discussion, if one of the species' c-Fos protein is not known, this result can effectively aid the prediction of the unknown protein structure, especially for species with highyl conserved region or motif.
 * Target Selection: This result can help in selecting target regions for further experimental studies, such as mutagenesis or functional assays.
 
+# Multiple Sequence Alignment of the Vascular Endothelial Growth Factor A proteins from different Organisms: Bovine🐮, Chick🐤, Horse🐴, Human🧍‍♀️, Hamster🐹, Mouse🐁, Pig🐖.
 
 
