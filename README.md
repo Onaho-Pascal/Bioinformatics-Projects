@@ -23,3 +23,5 @@ Pairwise Sequence Alignment 🛸 is a method used in bioinformatics to compare t
 Multiple Sequence Alignment (MSA) is a method used in bioinformatics to align three or more biological sequences (DNA, RNA, or proteins) simultaneously. The aim is to identify regions of similarity across all sequences, which can provide insights into their functional, structural, or evolutionary relationships. MSA is more complex than pairwise alignment due to the increased number of comparisons and the need to manage gaps across multiple sequences. Common algorithms for MSA include ClustalW, ClustalOmega, MUSCLE, and MAFFT, which use various strategies to optimize the alignment by balancing computational efficiency with the biological relevance of the results. MSA is crucial for tasks such as phylogenetic analysis, identification of conserved motifs, and predicting the secondary or tertiary structure of proteins.
 
 ![Screenshot (399)](https://github.com/Onaho-Pascal/Bioinformatics-Projects/assets/156159318/40e9cd67-6bec-447a-9ca8-f17b8f2a2fec)
+
+## To be updated!!!! 🥲
