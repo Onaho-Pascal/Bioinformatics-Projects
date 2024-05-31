@@ -76,7 +76,7 @@ AQDWEPLHATISSSDFEPLCTPVVTCTPACTTLTSSFVFTFPEAETFPTCGVAHRRRSNS
 * Run the test
 * Things to note:
   - **Always remember to put the greater than ">" sign at the front of the title of your sequence (which is the first line)**
-## Results and Discussion
+## Results
 On the output page, there are several options to navigate, including downloading your results.
 
 **Pictoral Results of the Output**  
@@ -91,6 +91,13 @@ On the output page, there are several options to navigate, including downloading
 ![Screenshot (407)](https://github.com/Onaho-Pascal/Bioinformatics-Projects/assets/156159318/06fa6b80-ab51-4e99-b8a2-730ea094febe)
 
 
+## Discussion
+Observing the colourful pictoral result of the multiple alignment, one can observe the different signs (often called consensus signs) beneath each column. These signs tell the level of sequence conservation in that area:  
+* An asterisk "*" is for columns in which all the amino acids are identical.
+* A colon ":" is for highly conserved columns showing similar amino acids.
+* A dot "." is for partially conserved columns with lesser similar amino acids.
+* No symbol means the column is not conserved at all.
 
+An area with a lot of asterisks and colons means a highly conserved motif, meanwhile an area with a lot of inexistent symbols or an area with a lot of gaps represents non-conserved regions.
 
 ## Conclusion
