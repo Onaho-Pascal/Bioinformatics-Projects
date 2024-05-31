@@ -1,5 +1,5 @@
 # Bioinformatics-Projects
-This houses all my Bioinformatics practice projects using tools and biological databases:
+This repository houses all my Bioinformatics practice projects using tools and biological databases. Projects you will find in this repository:
 * Pairwise Sequence Alignment
 * Multiple Sequence Alignment
 * Phylogenetic Tree Reconstruction
@@ -7,6 +7,7 @@ This houses all my Bioinformatics practice projects using tools and biological d
 * Unsupervised Machine Learning and Clustering Problem
 * Using K-means in Weka
 
+Below are the introductory or short explanatory sessions of the project.
 ## Pairwise Sequence Alignment
 Pairwise Sequence Alignment is a type of sequence alignment used to identify similar regions that may indicate relationships between two biological sequences. This relationship could be functional, structural, evolutionary, or a combination of two or more of these relationships. The biological sequences could also be nucleic acid or protein. As opposed to Pairwise Sequence Alignment, Multiple Sequence Alignment is the alignment of more than 2 biological sequences of similar length. 
 Alignment can either be Global or Local. Global alignment matches the entire length of the sequences, while Local alignment looks for sub-sequences of both sequences and matches them optimally to each other.  
