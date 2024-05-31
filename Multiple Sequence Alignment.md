@@ -88,16 +88,33 @@ On the output page, there are several options to navigate, including downloading
 
 **Percent Identity Matrix**  
 
-![Screenshot (407)](https://github.com/Onaho-Pascal/Bioinformatics-Projects/assets/156159318/06fa6b80-ab51-4e99-b8a2-730ea094febe)
+![Screenshot (407)](https://github.com/Onaho-Pascal/Bioinformatics-Projects/assets/156159318/00d8fa27-4434-424c-ba23-e583e3b994e2)  
+
+**Sorry, I had to write the organisms manually on the results so people can easily understand the matching going on 😿**
+
 
 
 ## Discussion
-Observing the colourful pictoral result of the multiple alignment, one can observe the different signs (often called consensus signs) beneath each column. These signs tell the level of sequence conservation in that area:  
+Observing the colourful pictoral result of the multiple alignment, one can see the different signs (often called consensus signs) beneath each column. These signs tell the level of sequence conservation in that area:  
 * An asterisk "*" is for columns in which all the amino acids are identical.
 * A colon ":" is for highly conserved columns showing similar amino acids.
 * A dot "." is for partially conserved columns with lesser similar amino acids.
 * No symbol means the column is not conserved at all.
 
-An area with a lot of asterisks and colons means a highly conserved motif, meanwhile an area with a lot of inexistent symbols or an area with a lot of gaps represents non-conserved regions.
+An area with a lot of asterisks and colons means a highly conserved motif, meanwhile an area with a lot of inexistent symbols or an area with a lot of gaps represents non-conserved regions.  
+
+For the percent identity matrix, there are a number of shared conservation among species:  
+* Humans and Pigs share a close conservation of the c-Fos protein at 96.32%
+* Humans and Hamster also share a close conservation of the c-Fos protein at 94.26%
+* Pigs and Hamster share at 94.47%
+* Humans and Mouse share at 93.86%
+
+The degree to which the organisms share amino acid sequence are as follows:  
+* Human: Pig > Hamster > Mouse >> Chicken >>> Puffer-fish >>> Carp.
+* Pig: Human > Hamster > Mouse >> Chicken >>> Puffer-fish >>> Carp.
+* Hamster: Mouse > Pig > Human >> Chicken >>> Puffer-fish >>> Carp.
+* Mouse: Hamster > Human > Pig >> Chicken >>> Puffer-fish >>> Carp.
+* Carp: Puffer-fish >>> Hamster >>> Mouse >>> Human >>> Pig >>> Chicken.
+* Puffer-fish: Carp >>> Hamster >>> Mouse >>> Human >>> PIg >>> Chicken.
 
 ## Conclusion
