@@ -130,5 +130,6 @@ By revealing conserved and variable regions across multiple sequences, MSA is qu
 * Target Selection: This result can help in selecting target regions for further experimental studies, such as mutagenesis or functional assays.
 
 # Multiple Sequence Alignment of the Vascular Endothelial Growth Factor A proteins from different Organisms: Bovine🐮, Chick🐤, Horse🐴, Human🧍‍♀️, Hamster🐹, Mouse🐁, Pig🐖.
+## To be updated!!! 😿
 
 
