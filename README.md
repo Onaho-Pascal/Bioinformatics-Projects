@@ -1,5 +1,6 @@
 # Bioinformatics Projects
-This repositories houses my bioiinformatics projects including steps and notes about each one.  
+This repository houses my bioinformatics projects including steps and notes about each one.  
+In addition, this **README** has short explanations or introductory sessions about each topic and project.
 The projects include:  
 * Pairwise Sequence Alignment
 * Multiple Sequence Alignment
