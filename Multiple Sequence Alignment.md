@@ -117,4 +117,8 @@ The degree to which the organisms share amino acid sequence are as follows:
 * Carp: Puffer-fish >>> Hamster >>> Mouse >>> Human >>> Pig >>> Chicken.
 * Puffer-fish: Carp >>> Hamster >>> Mouse >>> Human >>> PIg >>> Chicken.
 
+Multiple sequence has its different uses. Aligning multiple sequences can help to identify the conserved motifs  which are functionally important, just as we have seen in this result (the conserved motifs or regions). Further analysis could even give insights to the active binding sites and critical sites for protein function.  
+
+Additionally, assuming we knew the c-Fos protein structure of a pig, it won't be difficult to infere the structure of a human, since the share conservative motif or region is high between both species.
+
 ## Conclusion
