@@ -24,4 +24,14 @@ Alignment can either be Global or Local. Global alignment matches the entire len
 * The LALIGN which finds internal duplications by calculating non-intersecting local alignments of protein or DNA sequences
 * The SSEARCH2SEQ finds an optimal local alignment using the Smith-Waterman algorithm.
 ## Multiple Sequence Alignment
-As mentioned earlier, Multiple Sequence Alignment is the alignment of more than 2 biological sequences.
+As mentioned earlier, Multiple Sequence Alignment is the alignment of more than 2 biological sequences.  
+Tools for MSA include:
+* Clustal W
+* Clustal Omega
+* DNASTAR
+* GLProbs
+* MAFFT
+* MUSCLE
+* T-Coffee
+* DECIPHER
+* Geneious
