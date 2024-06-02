@@ -32,4 +32,7 @@ Next Generation Sequencing (NGS) is a modern form of sequencing technology that 
 ![image](https://github.com/Onaho-Pascal/Bioinformatics-Projects/assets/156159318/7f69305c-e568-48cc-8c75-bdd7740a3872)
 **image credit: iRepertoire.Inc (n.d.).**
 
+## Phew!!! That's a lot of read, I know 🥹. But your are not done, keep reading, scholar 🤓 . we have to learn as much as we can 🦾
+
 ## To be updated!!!! 🥲
+
