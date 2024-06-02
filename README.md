@@ -24,4 +24,12 @@ Multiple Sequence Alignment (MSA) is a method used in bioinformatics to align th
 
 ![Screenshot (399)](https://github.com/Onaho-Pascal/Bioinformatics-Projects/assets/156159318/40e9cd67-6bec-447a-9ca8-f17b8f2a2fec)
 
+
+## Next Generation Sequencing Technology
+
+Next Generation Sequencing (NGS) is a modern form of sequencing technology that allows for the multi-parallel sequencing of thousands and millions of genes. This technology is highly throughput and enables the sequencing of entire genomes and exomes. NGS is a 'magical' upgrade when compared to Sanger sequencing, which can only sequence one DNA fragment at a time. Pretty lame, right ?😐. Well, maybe not. Anyway, NGS is crucial for genomics research, clinical diagnostics, evolutionary biology, and even personalized medicine due to its ability to generate lage amounts of genetic information, and generate this efficiently.
+
+![image](https://github.com/Onaho-Pascal/Bioinformatics-Projects/assets/156159318/7f69305c-e568-48cc-8c75-bdd7740a3872)
+**image credit: iRepertoire.Inc (n.d.).**
+
 ## To be updated!!!! 🥲
