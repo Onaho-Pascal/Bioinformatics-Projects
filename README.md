@@ -40,5 +40,8 @@ This is a popular method often applid in Bioinformatics for the analysis and int
 * **Genomics and Phylogenetics** : K-means clustering can be applied to genomic data to identify patterns in genetic variants. This helps in understanding the genetic basis of diseases and traits. K-means can also cluster sequences of DNA, RNA, or Proteins in the identification of evolutionary relationships. By grouping similar sequences, researchers can infer phylogenetic trees and understand evolutionary lineage.
 * **Other applications**: Proteomics, Medical Imaging, Single-cell RNA Sequencing
 
+![k-means](https://github.com/Onaho-Pascal/Bioinformatics-Projects/assets/156159318/f629fdef-33e0-442b-870e-3df456728ea1)
+
+
 ## To be updated!!!! 🥲
 
