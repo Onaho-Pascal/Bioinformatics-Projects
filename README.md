@@ -36,7 +36,9 @@ Next Generation Sequencing (NGS) is a modern form of sequencing technology that 
 ## K-means Clustering
 This is a popular method often applid in Bioinformatics for the analysis and interpretation of complex biological data. It's application is in different areas of bioinformatics and molecular biology, namely:
 * **Gene Expression Analysis**: K-means can be used to analyze gene expression data from microarrays. RNA-Seq data can also be clustered to find patterns in gene expression and this can help to identify genes involved in the same biological process or pathways.
-* **Protein Sequence Analysis**: K-means clustering can be applied to metabolomics data to group samples based on their metabolite profiles.
+* **Protein Sequence Analysis**: K-means clustering can be applied to metabolomics data to group samples based on their metabolite profiles. THis helps in the identification of metabolic signatures associated with different biological conditions or diseases.
+* **Genomics and Phylogenetics** : K-means clustering can be applied to genomic data to identify patterns in genetic variants. This helps in understanding the genetic basis of diseases and traits. K-means can also cluster sequences of DNA, RNA, or Proteins in the identification of evolutionary relationships. By grouping similar sequences, researchers can infer phylogenetic trees and understand evolutionary lineage.
+* **Other applications**: Proteomics, Medical Imaging, Single-cell RNA Sequencing
 
 ## To be updated!!!! 🥲
 
